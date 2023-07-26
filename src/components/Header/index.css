@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.homePop {
+  display: flex;
+  flex-direction: row;
+}
